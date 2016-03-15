@@ -1,4 +1,6 @@
 'use strict';
+var stories = require('./stories');
+stories.get();
 
 /*
  * ## Task 1 (of 2)
